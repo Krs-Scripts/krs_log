@@ -6,6 +6,6 @@ name 'krs_log'
 author 'karos7804'
 description 'Log Generali'
 
-server_scripts 'krs_log.lua'
+server_scripts 'server.lua'
 
 shared_scripts  '@es_extended/imports.lua'
