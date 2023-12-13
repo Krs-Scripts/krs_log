@@ -8,4 +8,4 @@ description 'Log Generali'
 
 server_scripts 'krs_log.lua'
 
-shared_scripts  '@es_extended/imports.lua',
+shared_scripts  '@es_extended/imports.lua'
